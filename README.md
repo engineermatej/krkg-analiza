@@ -1,8 +1,8 @@
-# Analiza delnice KRKG (2017)
+# Analiza delnice KRKG (2025)
 
 ## Opis projekta:
 
-V tem projektu bom analiziral borzni tečaj delnice KRKG (Krka) za leto 2017.
+V tem projektu bom analiziral borzni tečaj delnice KRKG (Krka) za leto 2025.
 
 Podatke bom pridobil s spletne strani Ljubljanske borze (ljse.si) in jih najprej obdelal v programu Excel. Nato bom podatke uvozil v Mathematica, kjer bom izvedel grafično in statistično analizo.
 
@@ -13,7 +13,7 @@ Poleg tega bom simuliral naključno trgovanje (naključni kupec), ter analiziral
 
 ## Načrt projekta:
 
-1. Pridobitev podatkov o ceni delnice KRKG za leto 2017 s strani ljse.si  
+1. Pridobitev podatkov o ceni delnice KRKG za leto 2025 s strani ljse.si  
 2. Urejanje in čiščenje podatkov v Excelu  
 3. Uvoz podatkov v Mathematica  
 4. Grafični prikaz gibanja cene delnice  
