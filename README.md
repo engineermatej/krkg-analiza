@@ -2,24 +2,24 @@
 
 ## Opis projekta:
 
-V tem projektu bom analiziral borzni tečaj delnice KRKG (Krka) za leto 2025.
+V tem projektu analiziram gibanje borznega tečaja delnice podjetja KRKA (KRKG) v letu 2025. Podatki so pridobljeni s spletne strani Ljubljanske borze (ljse.si) in uvoženi v Wolfram Mathematica, kjer izvedem grafično in statistično analizo.
 
-Podatke bom pridobil s spletne strani Ljubljanske borze (ljse.si) in jih najprej obdelal v programu Excel. Nato bom podatke uvozil v Mathematica, kjer bom izvedel grafično in statistično analizo.
+V prvem delu predstavim osnovne informacije o podjetju ter analiziram gibanje zaključne cene delnice skozi leto. Poleg tega prikažem še promet, število poslov in porazdelitev zaključnih cen.
 
-Analiziral bom gibanje cene delnice skozi čas ter ugotavljal, kdaj pride do rasti in kdaj do padanja. Posebej se bom osredotočil tudi na povprečno vrednost delnice in splošne trende.
+V drugem delu simuliram naključnega investitorja, ki naključno izbere dan nakupa in prodaje delnice. Analizo ponovim večkrat ter ocenim uspešnost takšne strategije.
 
-Poleg tega bom simuliral naključno trgovanje (naključni kupec), ter analiziral njegov dobiček oziroma izgubo.
+Na koncu pripravim preprosto aplikacijo v oblaku, ki uporabniku omogoča interaktivni prikaz izbranih podatkov.
 
 
 ## Načrt projekta:
 
-1. Pridobitev podatkov o ceni delnice KRKG za leto 2025 s strani ljse.si  
-2. Urejanje in čiščenje podatkov v Excelu  
-3. Uvoz podatkov v Mathematica  
-4. Grafični prikaz gibanja cene delnice  
-5. Analiza obdobij rasti in padanja  
-6. Izračun povprečne vrednosti  
-7. Simulacija naključnega kupca in analiza uspešnosti  
+1. Pridobitev podatkov o delnici KRKG za leto 2025.
+2. Uvoz podatkov v Wolfram Mathematica.
+3. Predstavitev osnovnih informacij o podjetju KRKA.
+4. Grafična analiza gibanja zaključne cene delnice.
+5. Analiza prometa, števila poslov in porazdelitve zaključnih cen.
+6. Simulacija naključnega investitorja in analiza rezultatov.
+7. Izdelava preproste aplikacije v oblaku.
 
 
 ## Cilj projekta:
