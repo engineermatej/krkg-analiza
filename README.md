@@ -8,7 +8,7 @@ V prvem delu predstavim osnovne informacije o podjetju ter analiziram gibanje za
 
 V drugem delu simuliram naključnega investitorja, ki naključno izbere dan nakupa in prodaje delnice. Analizo ponovim večkrat ter ocenim uspešnost takšne strategije.
 
-Na koncu pripravim preprosto aplikacijo v oblaku, ki uporabniku omogoča interaktivni prikaz izbranih podatkov.
+Na koncu pripravim interaktivno aplikacijo, ki uporabniku omogoča interaktivni prikaz izbranih podatkov.
 
 
 ## Načrt projekta:
@@ -19,7 +19,9 @@ Na koncu pripravim preprosto aplikacijo v oblaku, ki uporabniku omogoča interak
 4. Grafična analiza gibanja zaključne cene delnice.
 5. Analiza prometa, števila poslov in porazdelitve zaključnih cen.
 6. Simulacija naključnega investitorja in analiza rezultatov.
-7. Izdelava preproste aplikacije v oblaku.
+7. Izdelava interaktivne aplikacije
+
+Povezava do posnetka na youtube: https://youtu.be/xZ_iM-gi-QY
 
 
 ## Cilj projekta:
